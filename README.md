@@ -1,8 +1,7 @@
-# Solohery R. My MLprojects
+# Solohery R. My Finance project
 
-Passionné de finance et de datascience, j'ai créé ce portfolio afin de montrer l'utilisation étendue du machine learning à partir de données provenant de différents secteurs.Je me suis attaché malgré tout à des données économiques et financière . J'espère que par la création de ce portefeuille de projets, mon travail suscitera la curiosité et l'intérêt de ceux qui, comme moi, rêve de voir la finance et les méthodes financières s'inspirer du machine learning pour trouver de nouvelles méthodes de valorisation, de gestion de risque ou de nouvelles stratégies d'investissement.Les projets présentés ici seront améliorés et revus au fur et à mesure car il n'y a pas de modèle parfait du premier coup! Si vous avez des suggestions ou des conseils je suis aussi preneurs :)
+Passionné d'investissement et de finance, j'ai suivi une formation d'économie statistique avant de me spécialisé dans l'analyse financière sell/buy side dans le domaine bancaire. J'ai créé ce portfolio de projets afin de partager mes connaissances en finance et d'aider toute personne désireuse d'utiliser python dans un but financier et/ou statistique à progresser. Vous trouverez ainsi des projets passant par l'analyse de données (pandas) aux formules de pricing et de calculs stochastiques utilisés en finance de marché. 
 
-Pour une description sur les projets vous pouvez aller dans l'onglet Wiki!!!
+
 Bonne visite!
 
-English version coming soon!!!
